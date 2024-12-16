@@ -29,7 +29,7 @@
 <img src=https://github-readme-stats.vercel.app/api?username=Hyunjung0221&show_icons=true
          /> </div> 
    </div>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyunjung0221&show_icons=true&theme=radical)
 <!--
 **Hyunjung0221/Hyunjung0221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
