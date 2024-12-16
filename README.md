@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div align= "center">
-   <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=120&text=Hyunjung%20Code%200221&animation=fadeIn&fontColor=9edb1a&fontSize=60" />
+   <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=120&text=Hyunjung%200221&animation=fadeIn&fontColor=9edb1a&fontSize=60" />
    </div>
    <div style="text-align: left;"> 
    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
